@@ -1,0 +1,21 @@
+# Raw datasets
+Raw_Data/
+
+# Power BI files
+*.pbix
+*.pbit
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
