@@ -1,0 +1,22 @@
+Column,Unique Values
+Country/Region,2
+Category,3
+Segment,3
+Region,4
+Ship Mode,4
+Discount,12
+Quantity,14
+Sub-Category,17
+State/Province,59
+City,542
+Postal Code,654
+Customer Name,800
+Customer ID,804
+Order Date,1242
+Ship Date,1338
+Product Name,1849
+Product ID,1862
+Order ID,5111
+Sales,5837
+Profit,7334
+Row ID,10194

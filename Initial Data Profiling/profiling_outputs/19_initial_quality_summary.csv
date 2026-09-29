@@ -1,0 +1,13 @@
+Metric,Value
+Rows,10194
+Columns,21
+Exact Duplicate Rows,0
+Columns With Missing Values,0
+Total Missing Cells,0
+Unique Orders,5111
+Unique Customers,804
+Unique Products,1862
+Orders With Multiple Customers,2
+Inconsistent Product IDs,32
+Product Names With Multiple IDs,17
+Negative Profit Rows,1901

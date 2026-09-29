@@ -1,0 +1,6 @@
+Check,Number of Rows
+Negative Sales,0
+Non-positive Quantity,0
+Discount < 0,0
+Discount > 1,0
+Negative Profit,1901
