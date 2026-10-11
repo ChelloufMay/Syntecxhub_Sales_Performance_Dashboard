@@ -982,8 +982,8 @@ git push -u origin main
 **May Chellouf**
 Aspiring Data Analyst
 
-- **GitHub:** [your-username](https://github.com/ChelloufMay)
-- **LinkedIn:** [your LinkedIn profile](https://www.linkedin.com/in/may-chellouf/?isSelfProfile=true)
+- **GitHub:** [the-username](https://github.com/ChelloufMay)
+- **LinkedIn:** [the LinkedIn profile](https://www.linkedin.com/in/may-chellouf/?isSelfProfile=true)
 
 **Skills:** Power BI, SQL Server, Python, Pandas, Power Query, DAX, Data Modelling and Data Visualization
 
@@ -993,6 +993,6 @@ Aspiring Data Analyst
 
 **Completed**
 
-The complete workflow, from Python profiling and SQL data preparation to the Power BI dashboard, testing, PDF export, image export and GitHub documentation, has been completed.
+The complete workflow, from Python profiling and SQL data preparation to the Power BI dashboard, testing, PDF export, image export, and GitHub documentation, is complete.
 
 *Dataset source: [Tableau Public Sample Data (Sample - Superstore)](https://public.tableau.com/app/learn/sample-data)*
